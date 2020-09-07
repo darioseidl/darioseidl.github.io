@@ -4,13 +4,14 @@
   jobs:
     - title: Technical Lead
     - title: Full Stack Developer
-    - title: System Adminstrator
+    - title: System Administrator
   dates: 2017–present
   quote: >
     Premium Healthcare Software
   description: |
-    Further development of the doctor-patient communication platform "MeinArztOnline"
+    - Further development of the doctor-patient communication platform "MeinArztOnline"
      and the online ordination system "docsy" at MediPrime GmbH (formerly Stonebird IT Solutions GmbH)
+    - We're woring on a new project too (to be announced!)
 
 - layout: left
   company: Rechnerherz
@@ -18,12 +19,13 @@
   jobs:
     - title: Technical Lead
     - title: Full Stack Developer
-    - title: System Adminstrator
+    - title: System Administrator
   dates: 05/2016–present
   quote: >
     … alles aus einer Hand
   description: |
     - Head of software development for the online bus booking platform "Bus-Angebot"
+    - Head of software development for the online bus travel catalogue "Busreisebox"
     - Full-stack developer with a focus on backend, database and server administration
 
 - layout: left
@@ -39,6 +41,7 @@
 
 - layout: left
   company: Stencyl
+  link: http://www.stencyl.com/
   job_title: Freelance Developer and Consultant
   dates: 07/2014–03/2016
   description: |
@@ -83,7 +86,7 @@
     Tutor for Prof. Michael Derntl, for the courses "Software Architekturen und Web Technologien" and "Präsentationstechnik"
 
 - layout: left
-  company: Cineplexx Kinobetriebe
+  company: Cineplexx Cinemas
   dates: 10/2004–12/2004
   job_title: Cashier
 

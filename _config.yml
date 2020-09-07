@@ -34,15 +34,6 @@ about_content: | # this will include new lines to allow paragraphs
   I enjoy working with Java/Kotlin (preferably Kotlin), JavaScript/TypeScript (preferably TypeScript), and Spring.
 
       $ Nothing can go wrng|
-  
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
@@ -50,9 +41,6 @@ more_content: | # this will include new lines to allow paragraphs
   Besides programming, some of my hobbies are cycling, board games, and Kung Fu 👊🤚.
   
   I like to keep my private life private, so you won't find much about me on social media.
-
-# Footer
-#footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme

@@ -3,32 +3,24 @@
   link: https://www.meinarztonline.at/
   quote: >
     Ihre Gesundheit in besten Händen
-#  description: |
-#    Persönliche Kommunikation mit Ihren Ärztinnen und Ärzten des Vertrauens.
     
 - layout: top-middle
   name: Docsy.at
   link: https://www.docsy.at/
   quote: >
     Österreichs modernste Arztsoftware
-#  description: |
-#    Online Patientenverwaltung, Terminverwaltung und Registrierkasse für Wahlärzte und Gruppenpraxen.
     
 - layout: top-middle
   name: Bus-Angebot.com
   link: https://www.bus-angebot.com
   quote: >
     Ihr Ziel. Ihre Reise. Ihr Bus.
-#  description: |
-#    Compare and book bus services from different Austrian bus operators online.
     
 - layout: top-middle
   name: Busreisebox.com
   link: https://www.busreisebox.com
   quote: >
     Austria's largest online bus travel catalogue
-#  description: |
-#    Bus journeys, excursions and event journeys of Austrian bus tour operators.
     
 - layout: top-middle
   name: Stencyl.com
