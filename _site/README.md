@@ -1,6 +1,6 @@
-# My CV Github pages
+# My Github pages
 
-[My CV](https://darioseidl.github.io/) Github pages.
+[My Github pages](https://darioseidl.github.io/).
 
 Using [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme).
 

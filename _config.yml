@@ -8,7 +8,7 @@ favicon: images/favicon.ico
 name: Dario Seidl
 title: Freelance Backend Developer and System Administrator
 email: first name 'at' rechnerherz.at
-website: https://darioseidl.github.io/
+#website: https://darioseidl.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -27,12 +27,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Dario and I'm a backend developer and system administrator. I also do frontend (somewhat reluctantly 😜). 
+  Hi, I'm Dario and I'm a backend developer and system administrator. I also do frontend development (somewhat reluctantly 😜). 
   
   I'm currently working at/for [rechnerherz](https://www.rechnerherz.at/) and [MediPrime](https://www.mediprime.eu/).
   
   I enjoy working with Java/Kotlin (preferably Kotlin), JavaScript/TypeScript (preferably TypeScript), and Spring.
 
+      $ Nothing can go wrng|
+  
 # Projects Section
 # projects_title: Projects
 
@@ -61,4 +63,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
