@@ -17,11 +17,17 @@ darkmode: true
 github_username:  darioseidl
 stackoverflow_username: "401712"
 
+# Additional icon links
+additional_links:
+- title: Dockerhub
+  icon: fa-docker
+  url: https://hub.docker.com/u/darioseidl
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Dario and I'm a backend developer and system administrator. I also do frontend (somewhat reluctantly :-P). 
+  Hi, I'm Dario and I'm a backend developer and system administrator. I also do frontend (somewhat reluctantly 😜). 
   
   I'm currently working at/for [rechnerherz](https://www.rechnerherz.at/) and [MediPrime](https://www.mediprime.eu/).
   
@@ -39,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Besides programming, some of my hobbies are cycling, board games and Kung Fu.
+  Besides programming, some of my hobbies are cycling, board games, and Kung Fu 👊🤚.
   
   I like to keep my private life private, so you won't find much about me on social media.
 
