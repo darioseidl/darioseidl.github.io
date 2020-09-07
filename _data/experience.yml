@@ -1,0 +1,9 @@
+- layout: left
+  company: todo
+  link: example.com
+  job_title: todo
+  dates: todo - Present
+  quote: >
+   todo
+  description: | # this will include new lines to allow paragraphs
+    todo

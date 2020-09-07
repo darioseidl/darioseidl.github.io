@@ -1,0 +1,8 @@
+- layout: left
+  name: TODO
+  dates: todo
+  qualification: todo
+  quote: >
+    todo
+  description: | # this will include new lines to allow paragraphs
+    todo

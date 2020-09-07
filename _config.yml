@@ -1,0 +1,64 @@
+# https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
+
+# Site
+repository: darioseidl/darioseidl.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Dario Seidl
+title: Freelance Backend Developer and System Administrator
+email: My first name at rechnerherz.at
+website: https://darioseidl.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  darioseidl
+stackoverflow_username: "401712"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm Dario and I'm a backend developer and system administrator. I also do frontend (somewhat reluctantly :-P). 
+  
+  I'm currently working at/for [rechnerherz](https://www.rechnerherz.at/) and [MediPrime](https://www.mediprime.eu/).
+  
+  I enjoy working with Java/Kotlin (preferably Kotlin), JavaScript/TypeScript (preferably TypeScript), and Spring.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Besides programming, some of my hobbies are cycling, board games and Kung Fu.
+  
+  I like to keep my private life private, so you won't find much about me on social media.
+  
+  You can contact me at my first name 'at' rechnerherz.at.
+
+# Footer
+#footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+ 
+exclude : [
+  "Gemfile",
+  "Gemfile.lock"
+]
