@@ -1,4 +1,22 @@
 - layout: top-middle
+  name: Busfinder.com
+  link: https://www.busfinder.com
+  quote: >
+    Ihr Ziel. Ihre Reise. Ihr Bus.
+    
+- layout: top-middle
+  name: Busreisebox.com
+  link: https://www.busreisebox.com
+  quote: >
+    Austria's largest online bus travel catalogue
+
+- layout: top-middle
+  name: mediprime.app
+  link: https://www.mediprime.app/
+  quote: >
+    Sichere Befundübermittlung
+
+- layout: top-middle
   name: MeinArztOnline.at
   link: https://www.meinarztonline.at/
   quote: >
@@ -9,18 +27,6 @@
   link: https://www.docsy.at/
   quote: >
     Österreichs modernste Arztsoftware
-    
-- layout: top-middle
-  name: Bus-Angebot.com
-  link: https://www.bus-angebot.com
-  quote: >
-    Ihr Ziel. Ihre Reise. Ihr Bus.
-    
-- layout: top-middle
-  name: Busreisebox.com
-  link: https://www.busreisebox.com
-  quote: >
-    Austria's largest online bus travel catalogue
     
 - layout: top-middle
   name: Stencyl.com
