@@ -1,19 +1,4 @@
 - layout: left
-  company: MediPrime
-  link: https://mediprime.eu
-  jobs:
-    - title: Technical Lead
-    - title: Full Stack Developer
-    - title: System Administrator
-  dates: 2017–present
-  quote: >
-    Premium Healthcare Software
-  description: |
-    - Further development of the doctor-patient communication platform "MeinArztOnline"
-     and the online ordination system "docsy" at MediPrime GmbH (formerly Stonebird IT Solutions GmbH)
-    - We're woring on a new project too (to be announced!)
-
-- layout: left
   company: Rechnerherz
   link: https://rechnerherz.at
   jobs:
@@ -28,6 +13,21 @@
     - Head of software development for the online bus travel catalogue "Busreisebox"
     - Full-stack developer with a focus on backend, database and server administration
 
+- layout: left
+  company: MediPrime
+  link: https://mediprime.eu
+  jobs:
+    - title: Technical Lead
+    - title: Full Stack Developer
+    - title: System Administrator
+  dates: 2017–2023
+  quote: >
+    Premium Healthcare Software
+  description: |
+    - Further development of the doctor-patient communication platform "MeinArztOnline"
+     and the online ordination system "docsy" at MediPrime GmbH (formerly Stonebird IT Solutions GmbH)
+    - Inception and development of web app for secure transmission of medical documents "mediprime.app"
+    
 - layout: left
   company: Stonebird IT Solutions
   jobs:
